@@ -1,0 +1,6 @@
+# Binary
+md2pdf
+
+# Infra configs — do NOT commit to public repos
+nginx-pdf.conf
+md2pdf.service
