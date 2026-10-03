@@ -1,3 +1,5 @@
+> **Archived.** Superseded by [KTS-o7/preview](https://github.com/KTS-o7/preview), live at <https://preview.shenthar.me>.
+
 # md2pdf
 
 Ultra-lightweight Markdown → PDF web converter. Dark split-pane editor, live preview, one-click download.
